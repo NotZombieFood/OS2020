@@ -1,1 +1,4 @@
 make qemu-nox
+
+# Comandos 
+apagar
