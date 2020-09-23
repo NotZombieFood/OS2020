@@ -1,0 +1,1 @@
+gcc crea_procesos.c -o crea_procesos
