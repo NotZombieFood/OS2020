@@ -1,0 +1,27 @@
+Command:
+    gcc crea_procesos.c -o crea_procesos
+    ./crea_procesos
+Output:
+    gitpod /workspace/OS2020/course_work/practica4 $ ./crea_procesos 
+    soy el proceso padre y mi hijo es 5960
+    trabajando
+    trabajando
+    soy el proceso hijo
+    mi hijo termino con status 2560 trabajando
+    trabajando
+
+uses SIGCHLD to know when the child is done
+
+Command:
+    gcc no_me_matas.c -o no_me_matas
+    ./no_me_matas
+Output:
+    gitpod /workspace/OS2020/course_work/practica4 $ ./no_me_matas
+    trabajando 
+    trabajando 
+    ^Chahaha no me matas 
+    trabajando 
+    ^Chahaha no me matas 
+    trabajando 
+
+Ignore ctrl + c
