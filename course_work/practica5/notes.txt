@@ -1,0 +1,17 @@
+./io -> inputoutput.c
+gitpod /workspace/OS2020/course_work/practica5 $ ./io
+dfsd
+dfsd
+sfds
+sfds
+hgh
+hgh
+etret
+etret
+test
+test
+
+
+
+
+suma.c was not completed
