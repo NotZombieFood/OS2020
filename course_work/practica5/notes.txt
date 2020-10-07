@@ -14,4 +14,4 @@ test
 
 
 
-suma.c was not completed
+mywc.c was not completed
